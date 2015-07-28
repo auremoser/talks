@@ -1,4 +1,4 @@
-###Condatos - Santiago
+###SOTM LatAM - Santiago
 
 ####DATE:
 Sep. 4-6th
