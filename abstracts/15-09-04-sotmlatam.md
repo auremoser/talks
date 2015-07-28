@@ -29,10 +29,13 @@ Aurelia is a developer and curious cartographer building communities around code
 ####Q&A:
 Charla
 
+####Title:
+Gazeteers del Futuro: Trayendo el contexto al cartographia con Wikidatos
+
 ####SUMMARY:
 
-Mapas nos proporcionan algunas de las presentaciones más interesantes a la topografía contextual e histórico. Trazando a través de los cambios políticos, ambientales y tectónicos de nuestro planeta, ellas proporcionan grandes lienzos para revisar el efecto de la historia humana sobre la topografía física. OSM y Wikimedia han democratizado progresivamente nuestro acceso al informacíon géografica, y nuestro sentido de lugar; y en la comparación de mapas, ganamos también un sentido del tiempo. Esta charla explorará cómo los datos OSM puré con Wikidata pueden ofrecer una perspectiva interesante sobre cómo leer mapas, y la forma de apreciar el cambio de series de tiempo en los géo-datos y en la cartografía de nuestro tiempo.
+Los mapas presentan algunos de los acercamientos más interesantes a la topografía contextual e histórica. Trazando los cambios políticos, ambientales y tectónicos de nuestro planeta, nos ofrecen grandes lienzos para visualizar el impacto de la historia humana sobre la topografía física. OSM y Wikimedia han democratizado progresivamente nuestro acceso a la informacíon géografica, y nuestro sentido de lugar; y al comparar mapas, también podemos podemos observar un sentido temporal. Esta charla explorará cómo los datos de OSM se pueden fusionar con Wikidata para ofrecer una nueva e interesante perspectiva para leer mapas, y apreciar cambios en las líneas de tiempo de los geo-datos y la cartografía contemporánea.
 
 ####BIO:
 
-Aurelia es una programadora / cartógrafa que trabajó en la construcción de comunidades de código. Anteriormente, trabajó en Mozilla, construyendo de herramientas de mapeo para los periodistas en Ushahidi y Internews Kenia. En los últimos proyectos que ella ha estado mapeando los datos del sensor para apoyar la seguridad agrícola los ecosistemas sostenibles en el Sur Global. Ella está interesada en las mapas de la infraestructura urbana, y tiene la bici más bonita del mundo.
+Aurelia es una programadora y cartógrafa que trabaja en la construcción de comunidades alrededor de código en CartoDB. Anteriormente, trabajó en Mozilla, desarrollando herramientas de cartografía para periodistas en Ushahidi y Internews Kenia. En sus últimos proyectos ha estado mapeando datos de sensores para promover la seguridad agrícola y ecosistemas sustentables en el Sur Global. Sus intereses incluyen el mapeo de infraestructura urbana, y tiene la bici más bonita del mundo.
