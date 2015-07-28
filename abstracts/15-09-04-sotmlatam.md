@@ -1,4 +1,4 @@
-###SOTM LatAM - Santiago
+###SOTM LatAM - Santiago, Chile
 
 ####DATE:
 Sep. 4-6th
