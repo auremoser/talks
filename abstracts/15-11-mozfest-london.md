@@ -7,6 +7,8 @@
 
 ####ATTENDEE:
 * Aurelia Moser
+* Stuart Lynn
+* David Riordan
 * Andy Eschbacher
 
 ####TRACK:
