@@ -49,6 +49,7 @@ not included but maybe useful
 ####BIO
 Aurelia is a developer and curious cartographer building communities around code at CartoDB. Previously of Ushahidi and Internews Kenya, she's been working in the open tech and non-profit journalism space for a few years, and recent projects have had mapping sensor data to support agricultural security and sustainable apis ecosystems in the Global South.
 
-Andy is a Map Scientist at CartoDB, a part-time coder, part-time curriculum director for the CartoDB Academy, full-tim physicist and former physics teacher. He likes to tinker with 
+Andy is a Map Scientist at CartoDB, a part-time coder, part-time curriculum director for the CartoDB Academy, full-time physicist and former physics teacher. 
 
+Stuart is a Map Scientist with CartoDB a company that specializes in beautiful online geo spatial visualizations and location analytics. He initially studied mathematical physics at Edinburgh University before deciding astronomy was prettier and easier to explain in bars and obtained a Ph.D. in astrophysics. He currently works at the Adler Planetarium as the technical lead of the Zooniverse: the largest collection of online citizen science projects. He is passionate about getting everyone involved in doing real science and making real discoveries online.
 
