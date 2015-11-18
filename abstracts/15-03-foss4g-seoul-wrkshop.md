@@ -8,7 +8,7 @@ CartoDB is an open-source mapping platform allowing users to design, publish, an
 
 Here we will show you how to go from your data to interactive maps in just 30 seconds. We'll guide you through map-publishing in the Editor GUI, and expand on this for additional customization via the open libraries and APIs. The prerequisites are minimal; everyone is invited to attend, but participants will review geo-spatial data formatting, SQL querying, styling with CartoCSS, and the mechanics of map integration with CartoJS.
 
-####Author
+####Authors
 Aurelia Moser
 aurelia@cartodb.com
 @auremoser
